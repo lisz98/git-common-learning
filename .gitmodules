@@ -11,3 +11,6 @@
 [submodule "c++/git/sylarDemo"]
 	path = c++/git/sylarDemo
 	url = https://github.com/sylar-yin/sylar.git
+[submodule "书籍/resourcesDemo"]
+	path = 书籍/resourcesDemo
+	url = https://github.com/liyupi/free-programming-resources.git
