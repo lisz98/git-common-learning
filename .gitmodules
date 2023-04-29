@@ -5,3 +5,9 @@
 [submodule "cheatsheets/cheatsheets2"]
 	path = cheatsheets/cheatsheets2
 	url = https://github.com/LeCoupa/awesome-cheatsheets.git
+[submodule "c++/git/threadpoolDemo"]
+	path = c++/git/threadpoolDemo
+	url = https://github.com/lizhenghn123/zl_threadpool.git
+[submodule "c++/git/sylarDemo"]
+	path = c++/git/sylarDemo
+	url = https://github.com/sylar-yin/sylar.git
