@@ -1,0 +1,7 @@
+# 使用以下指令更新 git submodule update --remote --merge
+[submodule "cheatsheets/cheatsheets1"]
+	path = cheatsheets/cheatsheets1
+	url = https://github.com/skywind3000/awesome-cheatsheets.git
+[submodule "cheatsheets/cheatsheets2"]
+	path = cheatsheets/cheatsheets2
+	url = https://github.com/LeCoupa/awesome-cheatsheets.git
