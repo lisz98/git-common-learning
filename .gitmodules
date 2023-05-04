@@ -14,3 +14,18 @@
 [submodule "书籍/resourcesDemo"]
 	path = 书籍/resourcesDemo
 	url = https://github.com/liyupi/free-programming-resources.git
+[submodule "c++/git/timerDemo"]
+	path = c++/git/timerDemo
+	url = https://github.com/hidva/timer.git
+[submodule "c++/git/cjsonDemo"]
+	path = c++/git/cjsonDemo
+	url = https://github.com/DaveGamble/cJSON.git
+[submodule "c++/git/代码随想录"]
+	path = c++/git/代码随想录
+	url = https://github.com/youngyangyang04/leetcode-master.git
+[submodule "c++/git/搜狗workflow"]
+	path = c++/git/搜狗workflow
+	url = https://github.com/sogou/workflow.git
+[submodule "c++/git/inifile-cpp"]
+	path = c++/git/inifile-cpp
+	url = https://github.com/Rookfighter/inifile-cpp.git
