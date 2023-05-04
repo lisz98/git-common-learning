@@ -1,0 +1,27 @@
+# QStyleOption子类
+
+**`QStyleOption`及其子类描述了绘制图形元素所需的一些信息，这些信息存储在公有的成员变量中**
+
+1. **QStyleOption** <br> ![](iamges/QStyleOption的子类/QStyleOption.png)
+2. **QStyleOptionButton** <br> ![](iamges/QStyleOption的子类/QStyleOptionButton.png)
+3. **QStyleOptionFocusRect** <br> ![](iamges/QStyleOption的子类/QStyleOptionFocusRect.png)
+4. **QStyleOptionFrame** <br> ![](iamges/QStyleOption的子类/QStyleOptionFrame.png)
+5. **QStyleOptionProgressBar** <br> ![](iamges/QStyleOption的子类/QStyleOptionProgressBar.png)
+6. **QStyleOptionRubberBand** <br> ![](iamges/QStyleOption的子类/QStyleOptionRubberBand.png)
+7. **QStyleOptionTab** <br> ![](iamges/QStyleOption的子类/QStyleOptionTab.png)
+8. **QStyleOptionTabBarBase** <br> ![](iamges/QStyleOption的子类/QStyleOptionTabBarBase.png)
+9. **QStyleOptionTabWidgetFrame** <br> ![](iamges/QStyleOption的子类/QStyleOptionTabWidgetFrame.png)
+10. **QStyleOptionDockWidget** <br> ![](iamges/QStyleOption的子类/QStyleOptionDockWidget.png)
+11. **QStyleOptionToolBar** <br> ![](iamges/QStyleOption的子类/QStyleOptionToolBar.png)
+12. **QStyleOptionToolBox** <br> ![](iamges/QStyleOption的子类/QStyleOptionToolBox.png)
+13. **QStyleOptionMenuItem** <br> ![](iamges/QStyleOption的子类/QStyleOptionMenuItem.png)
+14. **QStyleOptionHeader** <br> ![](iamges/QStyleOption的子类/QStyleOptionHeader.png)
+15. **QStyleOptionViewItem** <br> ![](iamges/QStyleOption的子类/QStyleOptionViewItem.png)
+16. **QStyleOptionComplex** <br> ![](iamges/QStyleOption的子类/QStyleOptionComplex.png)
+17. **QStyleOptionComboBox** <br> ![](iamges/QStyleOption的子类/QStyleOptionComboBox.png) 
+18. **QStyleOptionSpinBox** <br> ![](iamges/QStyleOption的子类/QStyleOptionSpinBox.png) 
+19. **QStyleOptionSlider** <br> ![](iamges/QStyleOption的子类/QStyleOptionSlider.png)
+20. **QStyleOptionSizeGrip** <br> ![](iamges/QStyleOption的子类/QStyleOptionSizeGrip.png)
+21. **QStyleOptionTitleBar** <br> ![](iamges/QStyleOption的子类/QStyleOptionTitleBar.png)
+22. **QStyleOptionGroupBox** <br> ![](iamges/QStyleOption的子类/QStyleOptionGroupBox.png)
+23. **QStyleOptionToolButton** <br> ![](iamges/QStyleOption的子类/QStyleOptionToolButton.png)
