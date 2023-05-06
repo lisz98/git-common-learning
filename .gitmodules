@@ -29,3 +29,6 @@
 [submodule "c++/git/inifile-cpp"]
 	path = c++/git/inifile-cpp
 	url = https://github.com/Rookfighter/inifile-cpp.git
+[submodule "c++/git/muduo"]
+	path = c++/git/muduo
+	url = https://github.com/chenshuo/muduo.git
